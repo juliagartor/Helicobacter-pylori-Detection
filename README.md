@@ -11,6 +11,6 @@ The project is organized into multiple folders:
 - **Presentation:** This file contains the presentation of the project.
 
 ## Contributors
-Júlia Garcia, 
-Guillem Samper, and
-Nerea Qing Muñoz
+- Júlia Garcia 
+- Guillem Samper
+- Nerea Qing Muñoz
