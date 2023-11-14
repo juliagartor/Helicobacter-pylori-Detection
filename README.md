@@ -1,6 +1,7 @@
 # Helicobacter pylori Detection
 ## Introduction
 The purpose of this project is to craft an algorithm with the capability to detect Helicobacter pylori, a bacterium situated in the stomach, within biopsy images. Our strategy revolves around constructing an autoencoder proficient in reproducing biopsy images devoid of the bacterium. Subsequently, we utilize its output to identify images containing the bacterium, employing an explained classification method. We delve into diverse architectures, hyperparameters, and classification methods to attain optimal performance. It's important to note that, due to technical and time constraints, the evaluation part remains incomplete, offering room for further improvement.
+Also, this github was not used during the development of the project as we did everything in the virtual machine, this is why there aren't any of the generated files which are only in the virtual machine (e.g, the dictionaries of the models generated during the hyper parameter search), here we have just uploaded the final notebooks or .py files which were used in order to obtain the final result of the project. 
 
 ## Repository Structure
 The project is organized into multiple folders:
